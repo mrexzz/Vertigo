@@ -1,0 +1,6 @@
+cpanel
+wordpress
+wp
+admin
+2083
+2082
